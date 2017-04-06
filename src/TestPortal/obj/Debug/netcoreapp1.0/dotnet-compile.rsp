@@ -1,5 +1,5 @@
---temp-output:c:\users\nathan.westfall\documents\visual studio 2015\Projects\TestPortal\src\TestPortal\obj\Debug\netcoreapp1.0\
---out:c:\users\nathan.westfall\documents\visual studio 2015\Projects\TestPortal\src\TestPortal\bin\Debug\netcoreapp1.0\TestPortal.dll
+--temp-output:C:\Users\nathan.westfall\Documents\Visual Studio 2015\Projects\TestPortal\src\TestPortal\obj\Debug\netcoreapp1.0\
+--out:C:\Users\nathan.westfall\Documents\Visual Studio 2015\Projects\TestPortal\src\TestPortal\bin\Debug\netcoreapp1.0\TestPortal.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -196,7 +196,7 @@
 --reference:C:\Users\nathan.westfall\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\nathan.westfall\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\nathan.westfall\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\users\nathan.westfall\documents\visual studio 2015\Projects\TestPortal\src\TestPortal\obj\Debug\netcoreapp1.0\TestPortaldotnet-compile.deps.json",TestPortal.deps.json
-c:\users\nathan.westfall\documents\visual studio 2015\Projects\TestPortal\src\TestPortal\Program.cs
-c:\users\nathan.westfall\documents\visual studio 2015\Projects\TestPortal\src\TestPortal\Startup.cs
-c:\users\nathan.westfall\documents\visual studio 2015\Projects\TestPortal\src\TestPortal\Controllers\HomeController.cs
+--resource:"C:\Users\nathan.westfall\Documents\Visual Studio 2015\Projects\TestPortal\src\TestPortal\obj\Debug\netcoreapp1.0\TestPortaldotnet-compile.deps.json",TestPortal.deps.json
+C:\Users\nathan.westfall\Documents\Visual Studio 2015\Projects\TestPortal\src\TestPortal\Program.cs
+C:\Users\nathan.westfall\Documents\Visual Studio 2015\Projects\TestPortal\src\TestPortal\Startup.cs
+C:\Users\nathan.westfall\Documents\Visual Studio 2015\Projects\TestPortal\src\TestPortal\Controllers\HomeController.cs
